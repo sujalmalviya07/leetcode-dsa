@@ -4,9 +4,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
 | [1920-build-array-from-permutation](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
