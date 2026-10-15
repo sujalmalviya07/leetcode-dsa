@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
 | [1920-build-array-from-permutation](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Simulation
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Binary Search
 |  |
 | ------- |
