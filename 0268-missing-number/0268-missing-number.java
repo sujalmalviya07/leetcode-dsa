@@ -6,11 +6,10 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++) {
             sum += nums[i];
+            count +=i+1;
         }
 
-        for (int j = 1; j <= nums.length; j++) {
-            count += j;
-        }
+       
 
         return count - sum;
     }
