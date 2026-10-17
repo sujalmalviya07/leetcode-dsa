@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0268-missing-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sujalmalviya07/leetcode-dsa/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
